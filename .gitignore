@@ -1,0 +1,20 @@
+# SQL Server / SSDT
+*.user
+*.dbmdl
+*.jfm
+bin/
+obj/
+*.bak
+*.trn
+
+# local env / secrets — never commit
+.env
+.env.*
+*.publish.xml
+appsettings.local.json
+
+# editor
+.vs/
+.vscode/
+.idea/
+*.swp
